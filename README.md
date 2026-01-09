@@ -35,28 +35,7 @@ Each user sees **only their own data** using **session-based authentication**.
 ---
 
 ## 📂 Project Directory Structure
-LoginForm/
-│
-├── src/main/java/
-│ └── loginPage/
-│ ├── LoginServlet.java
-│ ├── SignupServlet.java
-│ ├── AddTaskServlet.java
-│ ├── DashboardServlet.java
-│ └── LogoutServlet.java
-│
-├── src/main/webapp/
-│ ├── index.jsp (Login Page)
-│ ├── signup.jsp (Signup Page)
-│ ├── welcome.jsp (Welcome Screen)
-│ ├── task.jsp (Add Task Page)
-│ ├── dashboard.jsp (Dashboard + Pie Chart)
-│ └── WEB-INF/
-│ ├── web.xml
-│ └── lib/
-│ └── mysql-connector-j-*.jar
-│
-└── README.md
+<img width="443" height="704" alt="image" src="https://github.com/user-attachments/assets/06819bae-a008-4909-b152-b343a00799fd" />
 
 
 ---
